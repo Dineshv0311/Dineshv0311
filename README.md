@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/T2K4HTwj/2ede7b2dc3b86f162d05817aed376b73.jpg" width="100%" alt="Aura Banner" style="border-radius: 12px;"/>
+  <img src="https://raw.githubusercontent.com/Dineshv0311/Dineshv0311/main/assets/aura_banner.jpg" width="100%" alt="Aura Banner" style="border-radius: 12px;"/>
 </div>
 
 <br>
@@ -25,7 +25,7 @@
       Available for freelance commissions and production web engineering via <a href="https://dev-dinesh.netlify.app"><b>dev-dinesh.netlify.app</b></a>.
     </td>
     <td align="center" valign="middle" width="30%">
-      <img src="https://i.postimg.cc/YSfYndyS/20260612-021944.png" width="220" alt="Aura Saturn"/>
+      <img src="https://raw.githubusercontent.com/Dineshv0311/Dineshv0311/main/assets/saturn_planet.png" width="220" alt="Aura Saturn"/>
     </td>
   </tr>
 </table>
@@ -57,5 +57,5 @@
 <br>
 
 <div align="center">
-  <img src="https://i.postimg.cc/prqJrstP/20260612-025300.jpg" width="100%" alt="Aura Divider" style="border-radius: 8px;"/>
+  <img src="https://raw.githubusercontent.com/Dineshv0311/Dineshv0311/main/assets/aura_bottom.jpg" width="100%" alt="Aura Divider" style="border-radius: 8px;"/>
 </div>
