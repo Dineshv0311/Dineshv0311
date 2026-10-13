@@ -1,10 +1,13 @@
 <p>
   <a href="https://www.linkedin.com/in/dinesh-v-486367289/"><img src="https://img.shields.io/badge/LinkedIn-000000.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/DevDineshX"><img src="https://img.shields.io/badge/X-000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://github.com/Dineshv0311?tab=repositories"><img src="https://img.shields.io/badge/Repositories-22-000000.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub Repos" /></a>
+  <a href="https://dev-dinesh.netlify.app"><img src="https://img.shields.io/badge/Studio_Portfolio-000000.svg?&style=flat-square&logo=netlify&logoColor=white" alt="Studio Portfolio" /></a>
+  <a href="https://dinesh-portfolio-public.vercel.app/"><img src="https://img.shields.io/badge/Personal_Site-000000.svg?&style=flat-square&logo=vercel&logoColor=white" alt="Personal Site" /></a>
 </p>
 
 Building autonomous agent architectures, local LLM runtimes, and robot learning pipelines.
+
+🌐 [dev-dinesh.netlify.app](https://dev-dinesh.netlify.app) &nbsp;·&nbsp; [dinesh-portfolio-public.vercel.app](https://dinesh-portfolio-public.vercel.app/)
 
 ## Featured
 - [metis-agentic-os](https://github.com/Dineshv0311/metis-agentic-os) - Production-grade voice agent runtime with hardware-scheduled daemons & zero-leak identity vaults.
@@ -13,6 +16,10 @@ Building autonomous agent architectures, local LLM runtimes, and robot learning 
 - [Shakesformer](https://github.com/Dineshv0311/Shakesformer) - GPT-style Transformer language model built from scratch in PyTorch.
 - [rust-cli-chatapp](https://github.com/Dineshv0311/rust-cli-chatapp) - Fast, memory-safe terminal chat assistant built in Rust with streaming Gemini API.
 - [devto-mcp-server](https://github.com/Dineshv0311/devto-mcp-server) - Model Context Protocol (MCP) server for automated article publishing via Claude Desktop.
+
+### Portfolios & Web
+- [dev-dinesh.netlify.app](https://dev-dinesh.netlify.app) - Full-Stack & AI Solutions engineering studio portfolio built with Next.js & TailwindCSS.
+- [dinesh-portfolio-public.vercel.app](https://dinesh-portfolio-public.vercel.app/) - Personal developer portfolio with interactive custom cursor and theme toggles.
 
 ### AI & Agentic Systems
 - [ironclaw](https://github.com/Dineshv0311/ironclaw) - Privacy-first Agent OS focused on security, execution sandboxing, and extensibility.
