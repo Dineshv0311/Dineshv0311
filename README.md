@@ -19,7 +19,7 @@
   <tr>
     <td valign="middle" width="70%">
       <br>
-      <b>AI & Systems Developer | Robotics Undergrad</b> (Class of 2026)<br><br>
+      <b>AI & Systems Developer | Robotics Undergrad</b> (Class of 2027)<br><br>
       I am based in Chennai (VIT Chennai) and deeply passionate about building autonomous agent architectures, local LLM runtimes, and robot learning pipelines.<br><br>
       Currently, I'm focusing my energy on <b>Metis Agentic OS</b> (sub-second voice agent runtime with zero-leak identity vaults) and <b>precision-il</b> (vision imitation learning benchmarking BC, ACT, and Diffusion Policy on Franka Panda). My technical playground revolves around Python, PyTorch, Rust, TypeScript, and cloud containerization.<br><br>
       Available for freelance commissions and production web engineering via <a href="https://dev-dinesh.netlify.app"><b>dev-dinesh.netlify.app</b></a>.
