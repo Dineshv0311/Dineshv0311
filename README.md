@@ -1,13 +1,13 @@
 <p>
   <a href="https://www.linkedin.com/in/dinesh-v-486367289/"><img src="https://img.shields.io/badge/LinkedIn-000000.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/DevDineshX"><img src="https://img.shields.io/badge/X-000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://dev-dinesh.netlify.app"><img src="https://img.shields.io/badge/Studio_Portfolio-000000.svg?&style=flat-square&logo=netlify&logoColor=white" alt="Studio Portfolio" /></a>
-  <a href="https://dinesh-portfolio-public.vercel.app/"><img src="https://img.shields.io/badge/Personal_Site-000000.svg?&style=flat-square&logo=vercel&logoColor=white" alt="Personal Site" /></a>
+  <a href="https://dinesh-portfolio-public.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000.svg?&style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://dev-dinesh.netlify.app"><img src="https://img.shields.io/badge/Freelance_Business-000000.svg?&style=flat-square&logo=netlify&logoColor=white" alt="Freelance Business" /></a>
 </p>
 
 Building autonomous agent architectures, local LLM runtimes, and robot learning pipelines.
 
-🌐 [dev-dinesh.netlify.app](https://dev-dinesh.netlify.app) &nbsp;·&nbsp; [dinesh-portfolio-public.vercel.app](https://dinesh-portfolio-public.vercel.app/)
+🌐 [dinesh-portfolio-public.vercel.app](https://dinesh-portfolio-public.vercel.app/) &nbsp;·&nbsp; [dev-dinesh.netlify.app](https://dev-dinesh.netlify.app) *(Freelance & Client Commissions)*
 
 ## Featured
 - [metis-agentic-os](https://github.com/Dineshv0311/metis-agentic-os) - Production-grade voice agent runtime with hardware-scheduled daemons & zero-leak identity vaults.
@@ -18,8 +18,8 @@ Building autonomous agent architectures, local LLM runtimes, and robot learning 
 - [devto-mcp-server](https://github.com/Dineshv0311/devto-mcp-server) - Model Context Protocol (MCP) server for automated article publishing via Claude Desktop.
 
 ### Portfolios & Web
-- [dev-dinesh.netlify.app](https://dev-dinesh.netlify.app) - Full-Stack & AI Solutions engineering studio portfolio built with Next.js & TailwindCSS.
-- [dinesh-portfolio-public.vercel.app](https://dinesh-portfolio-public.vercel.app/) - Personal developer portfolio with interactive custom cursor and theme toggles.
+- [dinesh-portfolio-public.vercel.app](https://dinesh-portfolio-public.vercel.app/) - Personal developer portfolio with interactive custom cursor, projects, and certifications.
+- [dev-dinesh.netlify.app](https://dev-dinesh.netlify.app) - Freelance business studio portfolio: production web development and full-stack AI engineering services.
 
 ### AI & Agentic Systems
 - [ironclaw](https://github.com/Dineshv0311/ironclaw) - Privacy-first Agent OS focused on security, execution sandboxing, and extensibility.
